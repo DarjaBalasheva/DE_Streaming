@@ -34,6 +34,7 @@ DE_Streaming/
 ├── Dockerfile # образ с установкой зависимостей для Python сервисов
 ├── producer.py # producer: читает CSV и отправляет данные в Kafka
 ├── consumer.py # consumer: читает Kafka, обрабатывает и сохраняет агрегаты
+├── dashboard.py # Streamlit дашборд для визуализации агрегированных данных
 ├── data/
 │ └── portugal_listings.csv # датасет
 ├── result/
