@@ -81,6 +81,9 @@ docker compose up -d --build
 
 ### 6. Визуализация данных
 С помощью Streamlit реализован дашборд для визуализации агрегированных данных по ссылке: http://localhost:8501
+Скриншот дашборда:
+![Dashboard Screenshot 1](./images/img_1.png)
+![Dashboard Screenshot 2](./images/img_2.png)
 
 ### 7. Остановка проект
 ```bash
