@@ -51,7 +51,7 @@ DE_Streaming/
 
 ### 2. Клонирование проекта
 ```bash
-git clone <repo_url>
+git clone https://github.com/DarjaBalasheva/DE_Streaming.git
 cd DE_Streaming
 ```
 
@@ -85,7 +85,7 @@ docker compose up -d --build
 ![Dashboard Screenshot 1](./images/img_1.png)
 ![Dashboard Screenshot 2](./images/img_2.png)
 
-### 7. Остановка проект
+### 7. Остановка проекта
 ```bash
 docker compose down
 ```
